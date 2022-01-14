@@ -5,6 +5,8 @@
 The purpose of this analysis is to determine who won the fictitious election that pertains to the data that has been provided and to illustrate some basic statistics based on the results.
 
 ## Election-Audit Results
+![image](https://github.com/msaunders0/election-analysis/blob/main/resources/election_analysis.png)
+
 - How many votes were cast in this congressional election?
 
 The total number of votes that were cast is 368,711.
